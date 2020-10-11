@@ -117,7 +117,7 @@ p {
   width: 100%;
   justify-content: space-around;
   align-items: center;
-  margin-bottom: 25px;
+  margin-bottom: 14px;
   padding-left: 30px;
 }
 .row img{
@@ -152,7 +152,7 @@ ul {
   color: white;
 }
 .img-clean{
-  width: 40vw;
+  width: 30%;
   
 }
 
@@ -160,4 +160,5 @@ ul {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  height: 1055px;
 }
